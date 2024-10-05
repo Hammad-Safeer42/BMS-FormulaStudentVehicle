@@ -46,7 +46,7 @@ Given the limited number of input channels on the microcontroller, we use a **16
 We incorporated a **24-bit ADC** for high-accuracy voltage measurements. The ADC communicates with the microcontroller using the **SPI protocol** for reliable and fast data transfer.
 
 
-<img src="./images/inter-board_comm.png" alt="inter board comm" width="500" height= "350" >
+<img src="./images/inter-board_comm.png" alt="inter board comm" width="250" height= "350" >
 
 ### Temperature Sensing
 
