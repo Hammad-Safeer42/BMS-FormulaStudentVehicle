@@ -68,10 +68,28 @@ We have implemented **passive cell balancing** to ensure consistent charging and
 ### Testing
 
 The BMS was integrated into our Formula Student Electric vehicle (code-named **FERN**) and underwent extensive testing prior to competition. During testing, the BMS was configured to monitor and control cell voltages, temperatures, and balancing operations. The system performed well in these real-world conditions.
-<p align="center">
-  <img src="./images/testing1.jpeg" alt="testing pictures" width="500" height="400">
-  <img src="./images/testing2.jpeg" alt="testing pictures" width="500" height="400">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/testing1.jpeg" alt="testing pictures 1" width="400" height="300" style="border-radius: 15px; border: 1px solid #ddd;">
+      <br><strong>Caption 1</strong>
+    </td>
+    <td align="center">
+      <img src="./images/testing2.jpeg" alt="testing pictures 2" width="400" height="300" style="border-radius: 15px; border: 1px solid #ddd;">
+      <br><strong>Caption 2</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/testing3.jpeg" alt="testing pictures 3" width="400" height="300" style="border-radius: 15px; border: 1px solid #ddd;">
+      <br><strong>Caption 3</strong>
+    </td>
+    <td align="center">
+      <img src="./images/testing4.jpeg" alt="testing pictures 4" width="400" height="300" style="border-radius: 15px; border: 1px solid #ddd;">
+      <br><strong>Caption 4</strong>
+    </td>
+  </tr>
+</table>
 
 
 ### Things to Improve
