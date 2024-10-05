@@ -36,6 +36,7 @@ Each slave board consists of the following key parts:
 
 
 <img src="./images/flow.png" alt="block diagram" width="800" height= "500" >
+
 ### Voltage Sensing
 
 The voltage sensing module utilizes precision voltage dividers for accurate cell voltage measurement. To ensure ultra-precise voltage division, **potentiometers** are employed in the divider circuits.
@@ -50,7 +51,7 @@ Temperature sensing is implemented intelligently to optimize the data collected 
 
 Each module consists of **8 cells in parallel**, and for each module, we use **3 temperature sensors**. The BMS compares the readings from these 3 sensors and outputs the **maximum temperature** value for each module. This ensures we monitor the most critical thermal points within the battery pack.
 
-> *A diagram showing the temperature sensor arrangement can be found in the folder.*
+<img src="./images/temp.png" alt="block diagram" width="800" height= "500" >
 
 ### Cell Balancing
 
