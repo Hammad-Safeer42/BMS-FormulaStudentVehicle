@@ -51,7 +51,7 @@ Temperature sensing is implemented intelligently to optimize the data collected 
 
 Each module consists of **8 cells in parallel**, and for each module, we use **3 temperature sensors**. The BMS compares the readings from these 3 sensors and outputs the **maximum temperature** value for each module. This ensures we monitor the most critical thermal points within the battery pack.
 
-<img src="./images/flow.png" alt="block diagram" width="800" height= "500" >
+<img src="./images/inter-board_comm.png" alt="inter board comm" width="500" height= "350" >
 
 
 ### Cell Balancing
