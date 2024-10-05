@@ -93,6 +93,34 @@ The BMS was integrated into our Formula Student Electric vehicle (code-named **F
 </table>
 
 
+### Testing Video
+
+This video showcases the testing process of the Modular Battery Management System (BMS). 
+
+[![Testing Video](https://img.youtube.com/vi/OceMZltFxBo/0.jpg)](https://youtu.be/OceMZltFxBo)
+
+
+
+### About the Team
+
+The BMS was integrated into the vehicle of[ **Formula Electric Racing NUST**](https://www.linkedin.com/company/fernust/posts/?feedView=all), a student-led team from the National University of Sciences and Technology (NUST). The team designs and builds electric race cars for the Formula Student competition, focusing on innovation and performance in electric mobility.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/fern1.jpeg" alt="testing pictures 1" width="400" height="400" style="border-radius: 15px; border: 1px solid #ddd;">
+      <br><strong>FERN </strong>
+    </td>
+    <td align="center">
+      <img src="./images/fern2.jpeg" alt="testing pictures 2" width="400" height="400" style="border-radius: 15px; border: 1px solid #ddd;">
+      <br><strong>FERN </strong>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ### Things to Improve
 
