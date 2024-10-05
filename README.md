@@ -48,7 +48,7 @@ We incorporated a **24-bit ADC** for high-accuracy voltage measurements. The ADC
 
 <p align="center">
   <img src="./images/inter-board_comm.png" alt="inter board comm" width="550" height="350">
-  <img src="./images/temp.jpeg" alt="temp pcb" width="300" height="350">
+  <img src="./images/temp1.jpeg" alt="temp pcb" width="300" height="350">
 </p>
 
 
