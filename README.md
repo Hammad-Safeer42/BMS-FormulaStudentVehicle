@@ -46,17 +46,17 @@ Given the limited number of input channels on the microcontroller, we use a **16
 We incorporated a **24-bit ADC** for high-accuracy voltage measurements. The ADC communicates with the microcontroller using the **SPI protocol** for reliable and fast data transfer.
 
 
-<p align="center">
-  <img src="./images/inter-board_comm.png" alt="inter board comm" width="550" height="350">
-  <img src="./images/temp1.jpeg" alt="temp pcb" width="300" height="350">
-</p>
-
 
 ### Temperature Sensing
 
 Temperature sensing is implemented intelligently to optimize the data collected from each cell module. In our configuration, we obtain the **maximum temperature** from each module in the system, ultimately acquiring 7 maximum values from the 84 total sensors across the system.
 
 Each module consists of **8 cells in parallel**, and for each module, we use **3 temperature sensors**. The BMS compares the readings from these 3 sensors and outputs the **maximum temperature** value for each module. This ensures we monitor the most critical thermal points within the battery pack.
+
+<p align="center">
+  <img src="./images/inter-board_comm.png" alt="inter board comm" width="550" height="350">
+  <img src="./images/temp1.png" alt="temp pcb" width="300" height="350">
+</p>
 
 
 
@@ -68,6 +68,11 @@ We have implemented **passive cell balancing** to ensure consistent charging and
 ### Testing
 
 The BMS was integrated into our Formula Student Electric vehicle (code-named **FERN**) and underwent extensive testing prior to competition. During testing, the BMS was configured to monitor and control cell voltages, temperatures, and balancing operations. The system performed well in these real-world conditions.
+<p align="center">
+  <img src="./images/testing1.png" alt="testing pictures" width="500" height="400">
+  <img src="./images/testing2.png" alt="testing pictures" width="500" height="400">
+</p>
+
 
 ### Things to Improve
 
