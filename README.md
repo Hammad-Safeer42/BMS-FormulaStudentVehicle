@@ -12,7 +12,7 @@ In our implementation, we utilized 4 boards, each capable of handling 21 cells, 
 - **High Voltage Support**: Capable of measuring up to 1000V.
 - **Distributed System**: Multiple boards for scalability and flexibility.
 - **Low and High Voltage Isolation**: Built-in isolation between low and high voltage systems for safety.
-- **Temperature Sensing**: Supports up to 84 temperature sensors across the system.
+- **Temperature Sensing**: Supports up to 84 temperature sensors in each Slave board.
 - **I2C-based Isolated Communication**: Inter-board communication via an I2C bus with isolation for robustness and safety.
 
 ## System Architecture
