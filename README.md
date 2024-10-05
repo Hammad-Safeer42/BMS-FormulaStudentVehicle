@@ -35,7 +35,7 @@ Each slave board consists of the following key parts:
 6. **Error Detection and Communication**: Generates and communicates error states to the low-voltage system to ensure safety.
 
 
-<img src="./images/flow.png" alt="block diagram" width="500">
+<img src="./images/flow.png" alt="block diagram" width="800" height= "500" >
 ### Voltage Sensing
 
 The voltage sensing module utilizes precision voltage dividers for accurate cell voltage measurement. To ensure ultra-precise voltage division, **potentiometers** are employed in the divider circuits.
