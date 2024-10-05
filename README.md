@@ -79,7 +79,4 @@ This project presents a cost-effective, modular, and scalable Battery Management
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-Special thanks to the Formula Student team and all contributors for their support and testing efforts.
 
