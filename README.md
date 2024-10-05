@@ -45,13 +45,16 @@ Given the limited number of input channels on the microcontroller, we use a **16
 
 We incorporated a **24-bit ADC** for high-accuracy voltage measurements. The ADC communicates with the microcontroller using the **SPI protocol** for reliable and fast data transfer.
 
+
+<img src="./images/inter-board_comm.png" alt="inter board comm" width="500" height= "350" >
+
 ### Temperature Sensing
 
 Temperature sensing is implemented intelligently to optimize the data collected from each cell module. In our configuration, we obtain the **maximum temperature** from each module in the system, ultimately acquiring 7 maximum values from the 84 total sensors across the system.
 
 Each module consists of **8 cells in parallel**, and for each module, we use **3 temperature sensors**. The BMS compares the readings from these 3 sensors and outputs the **maximum temperature** value for each module. This ensures we monitor the most critical thermal points within the battery pack.
 
-<img src="./images/inter-board_comm.png" alt="inter board comm" width="500" height= "350" >
+<img src="./images/temp.png" alt="temp pcb" width="500" height= "350" >
 
 
 ### Cell Balancing
