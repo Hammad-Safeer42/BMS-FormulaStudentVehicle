@@ -107,8 +107,8 @@ The BMS was integrated into the vehicle of[ **Formula Electric Racing NUST**](ht
 
 
 
-<img src="./images/fern1.jpeg" alt="fern" style="border-radius: 15px; border: 1px solid #ddd;">
-<img src="./images/fern2.jpeg" alt="fern"  style="border-radius: 15px; border: 1px solid #ddd;"width="550" height="400">
+<img src="./images/fern1.jpeg" alt="fern" style="border-radius: 15px; border: 1px solid #ddd;"width="800" height="600">
+<img src="./images/fern2.jpeg" alt="fern"  style="border-radius: 15px; border: 1px solid #ddd;"width="800" height="600">
 
 ### Things to Improve
 
