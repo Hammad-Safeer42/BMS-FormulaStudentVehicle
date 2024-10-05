@@ -34,8 +34,8 @@ Each slave board consists of the following key parts:
 5. **Isolated Communication**: Facilitates safe communication between boards using isolated I2C buses.
 6. **Error Detection and Communication**: Generates and communicates error states to the low-voltage system to ensure safety.
 
-![block diagram](./images/flow.png)
-<img src="./images/screenshot.png" alt="Project Screenshot" width="500">
+
+<img src="./images/flow.png" alt="block diagram" width="500">
 ### Voltage Sensing
 
 The voltage sensing module utilizes precision voltage dividers for accurate cell voltage measurement. To ensure ultra-precise voltage division, **potentiometers** are employed in the divider circuits.
