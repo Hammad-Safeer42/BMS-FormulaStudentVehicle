@@ -69,8 +69,8 @@ We have implemented **passive cell balancing** to ensure consistent charging and
 
 The BMS was integrated into our Formula Student Electric vehicle (code-named **FERN**) and underwent extensive testing prior to competition. During testing, the BMS was configured to monitor and control cell voltages, temperatures, and balancing operations. The system performed well in these real-world conditions.
 <p align="center">
-  <img src="./images/testing1.png" alt="testing pictures" width="500" height="400">
-  <img src="./images/testing2.png" alt="testing pictures" width="500" height="400">
+  <img src="./images/testing1.jpeg" alt="testing pictures" width="500" height="400">
+  <img src="./images/testing2.jpeg" alt="testing pictures" width="500" height="400">
 </p>
 
 
