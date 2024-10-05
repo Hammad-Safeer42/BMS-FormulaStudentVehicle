@@ -66,7 +66,8 @@ Through our testing and usage in competitive environments, a few areas for impro
 
 1. **Current Sensing Drift**: There is a slight drift in the current measurements during high discharge cycles, which could be refined.
 2. **FPGA Implementation**: Implementing the system with an FPGA could improve performance by shrinking the design and increasing precision, but this would come at a higher cost.
-3. **Voltage Sensing Accuracy**: Voltage sensing is slightly susceptible to errors during high discharge, likely due to noise or small fluctuations in the voltage divider circuits.
+3. **Off-the-shelf measurement ICs**: Some of Companies already have measurement ICs (like ADI and TEXAS Instruments) this was not feasible in our case, due to factory Lead times and Higher Costs.
+4. **Voltage Sensing Accuracy**: Voltage sensing is slightly susceptible to errors during high discharge, likely due to noise or small fluctuations in the voltage divider circuits.
 
 ## Conclusion
 
