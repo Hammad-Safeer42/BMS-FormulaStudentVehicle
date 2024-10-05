@@ -82,11 +82,11 @@ The BMS was integrated into our Formula Student Electric vehicle (code-named **F
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/testing3.jpeg" alt="testing pictures 3" width="400" height="400" style="border-radius: 15px; border: 1px solid #ddd;">
-      <br><strong>Integrated System </strong>
+      <img src="./images/testing3.jpeg" alt="testing pictures 3" width="300" height="400" style="border-radius: 15px; border: 1px solid #ddd;">
+      <br><strong>Testing in Integrated System </strong>
     </td>
     <td align="center">
-      <img src="./images/1.png" alt="testing pictures 4" width="400" height="400" style="border-radius: 15px; border: 1px solid #ddd;">
+      <img src="./images/1.png" alt="testing pictures 4" width="600" height="400" style="border-radius: 15px; border: 1px solid #ddd;">
       <br><strong>PCB design </strong>
     </td>
   </tr>
