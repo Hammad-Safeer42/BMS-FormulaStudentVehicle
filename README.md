@@ -110,15 +110,6 @@ The BMS was integrated into the vehicle of[ **Formula Electric Racing NUST**](ht
 
 <img src="./images/fern2.jpeg" alt="fern" style="border-radius: 15px; border: 1px solid #ddd;" width="750" height="450">
 
-### Things to Improve
-
-Through our testing and usage in competitive environments, a few areas for improvement were identified:
-
-1. **Current Sensing Drift**: There is a slight drift in the current measurements during high discharge cycles, which could be refined.
-2. **FPGA Implementation**: Implementing the system with an FPGA could improve performance by shrinking the design and increasing precision, but this would come at a higher cost.
-3. **Off-the-shelf measurement ICs**: Some of Companies already have measurement ICs (like ADI and TEXAS Instruments) this was not feasible in our case, due to factory Lead times and Higher Costs.
-4. **Voltage Sensing Accuracy**: Voltage sensing is slightly susceptible to errors during high discharge, likely due to noise or small fluctuations in the voltage divider circuits.
-
 ## Conclusion
 
 This project presents a cost-effective, modular, and scalable Battery Management System (BMS) tailored for high-performance Formula Student electric vehicles. The system has proven its reliability through rigorous testing, but there are areas for further improvement, such as enhancing current sensing accuracy and exploring more compact design options through FPGA integration.
