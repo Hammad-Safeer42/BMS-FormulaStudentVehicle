@@ -101,7 +101,7 @@ This video showcases the testing process of the Modular Battery Management Syste
 
 
 
-### About the Team
+### About the Team FERN
 
 The BMS was integrated into the vehicle of[ **Formula Electric Racing NUST**](https://www.linkedin.com/company/fernust/posts/?feedView=all), a student-led team from the National University of Sciences and Technology (NUST). The team designs and builds electric race cars for the Formula Student competition, focusing on innovation and performance in electric mobility.
 
