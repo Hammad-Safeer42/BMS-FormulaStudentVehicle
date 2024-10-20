@@ -105,6 +105,9 @@ This video showcases the testing process of the Modular Battery Management Syste
 
 The BMS was integrated into the vehicle of[ **Formula Electric Racing NUST**](https://www.linkedin.com/company/fernust/posts/?feedView=all), a student-led team from the National University of Sciences and Technology (NUST). The team designs and builds electric race cars for the Formula Student competition, focusing on innovation and performance in electric mobility.
 
+#### Tesla Sponsorship
+
+This BMS design was presented to Tesla as part of our sponsorship proposal, and it was recognized for its innovation and potential. As a result, **Formula Electric Racing NUST (FERN)** became the first and only team from Pakistan to receive technical sponsorship from Tesla. This sponsorship includes a €5000 discount on Enepaq TinyBMS, ADI, and TI BMS chips and development boards. Tesla’s support has greatly contributed to our team's efforts in advancing electric vehicle technology and achieving global milestones in motorsport engineering.
 
 <img src="./images/fern1.jpeg" alt="fern" style="border-radius: 15px; border: 1px solid #ddd;" width="750" height="500">
 
